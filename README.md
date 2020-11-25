@@ -1,7 +1,8 @@
 # AndrosCodeChallenge
 A Simple Console Card Game Written in Ruby
 
-To run the game from the terminal enter ruby game.rb
+Download game.rb
+From the download location run the game in a terminal by entering: ruby game.rb
 
 Enter your Player name at the prompt. 
 After a corny message you will see the results of the deal. 
